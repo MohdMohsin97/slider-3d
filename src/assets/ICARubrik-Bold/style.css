@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ICA Rubrik';
+    src: local('ICA Rubrik Bold'), local('ICA-Rubrik-Bold'),
+        url('ICARubrik-Bold.woff2') format('woff2'),
+        url('ICARubrik-Bold.woff') format('woff'),
+        url('ICARubrik-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }

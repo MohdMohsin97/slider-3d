@@ -1,0 +1,13 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'ICA Rubik';
+    src: url('src/assets/ICARubrik-Bold/ICARubrik-Bold.woff2') format('woff2'),
+         url('src/assets/ICARubrik-Bold/ICARubrik-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
