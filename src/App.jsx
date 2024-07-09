@@ -24,7 +24,7 @@ function App() {
               >
                 <img
                   className="w-full h-full object-cover"
-                  src={`src/assets/images/dragon_${i + 1}.jpg`}
+                  src={`images/dragon_${i + 1}.jpg`}
                   alt="dragon1"
                 />
               </div>
@@ -40,7 +40,7 @@ function App() {
             <p>Web Developer</p>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
           </div>
-          <div className="model bg-[url(./src/assets/images/model.png)] w-full h-[100vh] absolute  bg-no-repeat   bg-top-center bg-130"></div>
+          <div className="model bg-[url(images/model.png)] w-full h-[100vh] absolute  bg-no-repeat   bg-top-center bg-130"></div>
         </div>
       </div>
     </div>
